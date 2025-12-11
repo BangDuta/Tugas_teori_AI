@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "705152425665",
+    "firebase_url": "https://werewolfgamemultiplayer-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "werewolfgamemultiplayer",
+    "storage_bucket": "werewolfgamemultiplayer.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705152425665:android:3d14172f50794ed8c67e40",
+        "android_client_info": {
+          "package_name": "com.duta.werewolfgamemultiplayer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7UaOxitwYYrL9d_m1MUzzmqL7csuz8cY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705152425665:android:d75dcd8201dfa0e1c67e40",
+        "android_client_info": {
+          "package_name": "com.example.werewolf_game_multiplayer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7UaOxitwYYrL9d_m1MUzzmqL7csuz8cY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
